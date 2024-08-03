@@ -1,0 +1,14 @@
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\bin\Debug\net8.0\CrudPessoaFisica.exe
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\bin\Debug\net8.0\CrudPessoaFisica.deps.json
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\bin\Debug\net8.0\CrudPessoaFisica.runtimeconfig.json
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\bin\Debug\net8.0\CrudPessoaFisica.dll
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\bin\Debug\net8.0\CrudPessoaFisica.pdb
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.AssemblyInfoInputs.cache
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.AssemblyInfo.cs
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.csproj.CoreCompileInputs.cache
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.dll
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\refint\CrudPessoaFisica.dll
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.pdb
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\CrudPessoaFisica.genruntimeconfig.cache
+C:\Users\Weber\Documents\BackEnd\CrudPessoaFisica\obj\Debug\net8.0\ref\CrudPessoaFisica.dll
