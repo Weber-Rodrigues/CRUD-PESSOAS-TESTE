@@ -10,9 +10,19 @@ namespace CrudPessoaFisica.Models
 
         public List<PessoaFisica> Pessoas { get; set; }
 
-        public void AdicionarPessoa()
+        public void AdicionarPessoa(PessoaFisica pessoa)
         {
+            Pessoas.Add(pessoa);
+            Console.WriteLine("Pessoa Cadastrada com sucesso!");
 
+        }
+
+        public void ListarPessoas()
+        {
+            foreach (PessoaFisica item in Pessoas)
+            {
+
+            }
         }
 
 

@@ -9,9 +9,14 @@ namespace CrudPessoaFisica.Models
 {
     public class PessoaFisica
     {
+
+
+
         private static int id = 1;
         private string _nome;
         private int _idade;
+        private string _cpf;
+        private string _sexo;
         public int Id { get; set; }
         public string Nome
         {
