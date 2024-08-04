@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudPessoaFisica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cacf4bbd0201c3a7095a6da93d60164035145956")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34126dc27eb2189d490817f6353e5de06f9ee306")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudPessoaFisica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudPessoaFisica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

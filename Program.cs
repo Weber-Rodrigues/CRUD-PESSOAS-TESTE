@@ -95,6 +95,8 @@ class Program
         {
             Console.Write("Novo Nome: ");
             pessoa.Nome = Console.ReadLine();
+            Console.Write("Nova Idade: ");
+            pessoa.Idade = Convert.ToInt32(Console.ReadLine());
             Console.Write("Novo CPF: ");
             pessoa.Cpf = Console.ReadLine();
             Console.Write("Nova Data de Nascimento: ");
