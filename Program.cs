@@ -1,7 +1,5 @@
 ﻿using CrudPessoaFisica.Models;
 
-
-
 class Program
 {
     private static List<PessoaFisica> Pessoas = [];
@@ -10,7 +8,6 @@ class Program
     static void Main()
     {
         bool exibirConsole = true;
-        string option;
         while (exibirConsole)
         {
             Console.WriteLine("Escolha uma opção:");
@@ -66,7 +63,7 @@ class Program
             Id = nextId++,
             Nome = nome,
             Cpf = cpf,
-            Idade = Convert.ToInt32(idade),
+            Idade = int.Parse(idade),
             DataNascimento = dataNascimento,
             Sexo = sexo
         };
