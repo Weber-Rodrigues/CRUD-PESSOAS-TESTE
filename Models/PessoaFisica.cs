@@ -36,7 +36,7 @@ namespace CrudPessoaFisica.Models
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Numero inválida para o campo idade! ");
+                    throw new ArgumentException("Numero inválido para o campo idade! ");
                 }
                 _idade = value;
             }

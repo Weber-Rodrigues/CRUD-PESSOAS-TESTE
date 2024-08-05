@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Common;
-using System.Linq;
-using CrudPessoaFisica.Models;
+﻿using CrudPessoaFisica.Models;
 
 
 
@@ -65,7 +61,7 @@ class Program
         string sexo = Console.ReadLine();
         Console.WriteLine("Pessoa adicionada com sucesso!");
 
-        PessoaFisica pessoa = new PessoaFisica
+        PessoaFisica pessoa = new()
         {
             Id = nextId++,
             Nome = nome,
